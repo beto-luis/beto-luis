@@ -2,7 +2,7 @@
 
 🚀 Sempre fui um estudante curioso e autodidata, buscando aperfeiçoar o conhecimento e habilidades em todas as tarefas que executo em minha vida, até os dias de hoje sou recompensado por frutos do meu comprometimento, mas agora estou me dedicando a área de tecnologia web.
 
-Meu objetivo é me tornar um Desenvolvedor Full Stack capacitado para atender as necessidades no mercado de tecnologia.
+Meu objetivo é me tornar um Desenvolvedor Full Stack com um excelente desempenho para atender as necessidades no mercado de tecnologia.
 
 <div>
   <a href="https://github.com/beto-luis">
