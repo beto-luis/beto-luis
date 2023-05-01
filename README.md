@@ -1,7 +1,7 @@
 # Bem vindo ao meu perfil! 🐱‍👤
 
 <ul>
-  <li>🚀 Sempre fui um estudante curioso e autodidata, buscando aperfeiçoar o conhecimento e habilidades em todas as tarefas que executo em minha vida, até os dias de hoje sou recompensado por frutos do meu comprometimento, mas agora estou me dedicando a área de tecnologia web.</li><br>
+  <li>🚀 Sempre fui um estudante curioso e autodidata, buscando aperfeiçoar o conhecimento e habilidades em todas as tarefas que executo em minha vida, até os dias de hoje sou recompensado por frutos do meu comprometimento, mas agora estou me dedicando a área de tecnologia.</li><br>
   <li>Meu objetivo é me tornar um Desenvolvedor Full Stack com um excelente desempenho para atender as necessidades no mercado de tecnologia.<li/><br>
 </ul>  
 <div>
