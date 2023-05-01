@@ -1,7 +1,7 @@
 # Bem vindo ao meu perfil! 🐱‍👤
 
   <li>🚀 Sempre fui um estudante curioso e autodidata, buscando aperfeiçoar o conhecimento e habilidades em todas as tarefas que executo em minha vida, até os dias de hoje sou recompensado por frutos do meu comprometimento, mas agora estou me dedicando a área de tecnologia.</li><br>
-  <li>Meu objetivo é me tornar um Desenvolvedor Full Stack com um excelente desempenho para atender as necessidades no mercado de tecnologia.<li/>
+  <li>Meu objetivo é me tornar um Desenvolvedor Full Stack com um excelente desempenho para atender as necessidades no mercado de tecnologia.
 <div>
     <br>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=beto-luis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
