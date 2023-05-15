@@ -1,7 +1,7 @@
-# Bem vindo ao meu perfil! 🐱‍👤
+# olá, bem vindo ao meu GitHub ! 🐱‍👤
 
 <ul>
-  <li>🚀 Sempre fui um estudante curioso e autodidata, buscando aperfeiçoar o conhecimento e habilidades em todas as tarefas que executo em minha vida, até os dias de hoje sou recompensado por frutos do meu comprometimento, mas agora estou me dedicando a área de tecnologia.</li><br>
+  <li>🚀 Estou a procura do conhecimento sobre este mundo chamado tecnologia, sempre fui curioso e apaixonado por isso, as oportunidades surgem com o tempo... e determinação, nunca é tarde para começar!.</li><br>
   <li>Meu objetivo é me tornar um Desenvolvedor Full Stack com um excelente desempenho para atender as necessidades no mercado.</li><br>
 </ul>
 <div>
