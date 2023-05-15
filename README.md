@@ -10,11 +10,12 @@
   </ul>
 </div>
 <div align="center">
-<br>
-
-  <br>
+    <br>
+    <div>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=beto-luis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+    <div>
      <img style="border: 1px solid white; border-radius: 4px;" height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=beto-luis&theme=tokyonight&hide_border=true">
-  <br>
+    <br>
     
 ## Principais tecnologias
 
@@ -24,11 +25,11 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
     
- <br>
+    <br>
     <div>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beto-luis&layout=compact&langs_count=6&theme=tokyonight">
  
- <br>
+    <br>
  
   ### Para mais informações de contato segue links abaixo!
  
