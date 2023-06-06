@@ -31,7 +31,7 @@
   ### Para mais informações de contato segue links abaixo!
  
 <div> 
- <img src="./imagens/Button-discord.svg"> 
+ <img src="./imagens/Button-discord.png"> 
 
   <a href = "mailto:robertodecarvalho0608@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
