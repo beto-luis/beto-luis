@@ -17,7 +17,7 @@
      <img style="border: 1px solid white; border-radius: 4px;" height="203px" src="https://github-readme-streak-stats.herokuapp.com/?user=beto-luis&theme=tokyonight&hide_border=true">
     <br>
     
-## Principais tecnologias
+## Tecnologias
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
