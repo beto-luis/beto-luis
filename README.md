@@ -5,7 +5,7 @@
   <ul align="left" style="padding-right: 340px;">
     <li>🚀 Estou iniciando minha jornada em busca de me tornar um desenvolvedor.</li><br>
     <li>Atualmente não trabalho na área de tecnologia, mas sempre fui curioso e interessado por esse mundo.</li><br>
-    <li>Sou ambicioso, focado e autodidata, sei que a jornada para migrar de área não será fácil mas com determinação e dedicação poderei atingir meus objetivos.</li><br>
+    <li>Sou ambicioso, focado e autodidata, sei que a jornada para migrar de área não será fácil mas com determinação e dedicação posso atingir meus objetivos.</li><br>
     <li>Meu primeiro objetivo é me tornar um dev Frontend júnior.</li><br>
   </ul>
 </div>
