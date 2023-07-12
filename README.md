@@ -1,12 +1,10 @@
 # Olá, eu sou o Roberto ! 🐱‍👤
 <div align="center">
-    <img align="right" style="border: 1px solid white; border-radius: 4px;" height="203px" src="https://github-readme-stats.vercel.app/api?username=beto-luis&show_icons=true&custom_title=beto-luis's%20Github%20Stats&theme=tokyonight&hide_border=true">
+    <img align="right" style="border: 1px solid white; border-radius: 4px;" height="230px" src="https://github-readme-stats.vercel.app/api?username=beto-luis&show_icons=true&custom_title=beto-luis's%20Github%20Stats&theme=tokyonight&hide_border=true">
   
-  <ul align="left" style="padding-right: 340px;">
-    <li>🚀 Estou iniciando minha jornada em busca de me tornar um desenvolvedor.</li><br>
-    <li>Atualmente não trabalho na área de tecnologia, mas sempre fui curioso e interessado por esse mundo.</li><br>
-    <li>Sou ambicioso, focado e autodidata, sei que a jornada para migrar de área não será fácil mas com determinação e dedicação posso atingir meus objetivos.</li><br>
-    <li>Meu primeiro objetivo é me tornar um dev Frontend júnior.</li><br>
+  <ul text-align="center" align="left" style="padding-right: 300px;">
+<li>   Sou um profissional dedicado e em busca de uma nova carreira no desenvolvimento web. Atualmente, tenho experiência na indústria como operador de CNC, onde busquei constantemente conhecimento e aprimorei minhas habilidades. No entanto, percebi que minha verdadeira paixão está na tecnologia e estou determinado a seguir esse caminho. Como pai de um menino de 2 anos e meio e recentemente adquiri meu primeiro imóvel, estou ciente da responsabilidade que é fazer essa transição, e estou comprometido em me dedicar e progredir como um desenvolvedor web. </li>
+<li> 🚀 Estou animado com a oportunidade de contribuir como um frontend júnior e continuar meu crescimento nessa área apaixonante. </li>
   </ul>
 </div>
 <div align="center">
