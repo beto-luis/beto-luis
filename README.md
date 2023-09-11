@@ -3,7 +3,7 @@
     <img align="right" style="border: 1px solid white; border-radius: 4px;" height="230px" src="https://github-readme-stats.vercel.app/api?username=beto-luis&show_icons=true&custom_title=beto-luis's%20Github%20Stats&theme=tokyonight&hide_border=true">
   
   <ul text-align="center" align="left" style="padding-right: 300px;">
-<li>  Sou um profissional dedicado e em busca de uma nova carreira no desenvolvimento web. Atualmente, tenho experiência na indústria mecânica, onde busquei constantemente conhecimento e aprimorei minhas habilidades. No entanto, percebi que minha verdadeira paixão está na tecnologia e estou determinado a seguir esse caminho. Como pai de um menino de 2 anos e meio e recentemente adquiri meu primeiro imóvel, estou ciente da responsabilidade que é fazer essa transição, e estou comprometido em me dedicar e progredir como um desenvolvedor web. </li>
+<li>  Sou um profissional dedicado e em busca de uma nova carreira no desenvolvimento web. Atualmente, tenho experiência na indústria mecânica, onde busquei constantemente conhecimento e aprimorei minhas habilidades. No entanto, percebi que minha verdadeira paixão está na tecnologia e estou determinado a seguir esse caminho. Como pai de um menino de 2 anos e como recentemente adquiri meu primeiro imóvel, estou ciente da responsabilidade que é fazer essa transição, e estou comprometido em me dedicar e progredir como um desenvolvedor web. </li>
 <li> 🚀 Estou animado com a oportunidade de contribuir como um frontend júnior e continuar meu crescimento nessa área apaixonante. </li>
   </ul>
 </div>
