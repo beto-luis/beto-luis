@@ -1,4 +1,4 @@
-# Olá, eu sou o Roberto ! 🐱‍👤
+# Olá, eu sou o Roberto !
 <div align="center">
     <img align="right" style="border: 1px solid white; border-radius: 4px;" height="230px" src="https://github-readme-stats.vercel.app/api?username=beto-luis&show_icons=true&custom_title=beto-luis's%20Github%20Stats&theme=tokyonight&hide_border=true">
   
